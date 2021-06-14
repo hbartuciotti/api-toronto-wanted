@@ -1,5 +1,5 @@
 # API - Toronto Wanted
-Simple PHP API used by the Toronto Wanted App to fetch data from the database in JSON format.
+A simple PHP API used by the Toronto Wanted App to fetch data from a MySQL database in JSON format.
 
 # Observation
 Please note that for privacy reasons the databse credentials are hidden in the "database.php" file. Therefore no real data will be fetched.
